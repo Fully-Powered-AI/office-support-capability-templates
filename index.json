@@ -4,12 +4,44 @@
   "term": "functions/executive-and-office-support",
   "capabilities": [
     {
+      "id": "board-meeting-pack",
+      "name": "Board meeting pack",
+      "version": "0.1.0",
+      "summary": "Before each board meeting, the CEO gets a pre-read built on the one decision the board is asked to make, with every figure from the company's own reports, an agenda kept mostly for discussion and the questions directors are likely to ask. Afterwards, a record of what was decided. The CEO sends it all.",
+      "path": "board-meeting-pack/",
+      "directory": "https://fullypowered.ai/capabilities/board-meeting-pack/"
+    },
+    {
+      "id": "decision-log",
+      "name": "Decision log",
+      "version": "0.1.0",
+      "summary": "Your chief of staff keeps one register of what the leadership actually approved, across every meeting and message: each decision with who approved it, each action with one owner and a date, what is overdue, and a flag wherever a new decision clashes with an earlier one or revives a rejected idea.",
+      "path": "decision-log/",
+      "directory": "https://fullypowered.ai/capabilities/decision-log/"
+    },
+    {
       "id": "meeting-agenda-notes-and-follow-ups",
       "name": "Meeting agenda, notes and follow-ups",
       "version": "0.1.0",
       "summary": "Whoever runs the meeting walks in with an agenda where every topic has an outcome and a time, and walks out with a one-page record: what was decided, who owns each action and by when, and what is still open. Nothing reaches anyone until that person has read it and sends it.",
       "path": "meeting-agenda-notes-and-follow-ups/",
       "directory": "https://fullypowered.ai/capabilities/meeting-agenda-notes-and-follow-ups/"
+    },
+    {
+      "id": "research-summary-brief",
+      "name": "Research summary brief",
+      "version": "0.1.0",
+      "summary": "An executive handed a pile of reports, articles or papers gets one brief: what each source found, where the sources agree and disagree, the limits of each, and exact quotations cited to the page. Built only from the documents supplied. What it means for the business stays the reader's call.",
+      "path": "research-summary-brief/",
+      "directory": "https://fullypowered.ai/capabilities/research-summary-brief/"
+    },
+    {
+      "id": "reviewer-comments-resolution-list",
+      "name": "Reviewer comments into one resolution list",
+      "version": "0.1.0",
+      "summary": "The owner of a document that came back from several reviewers gets one checklist: every proposed edit and comment, grouped by section, with clashes between reviewers set side by side. Every item stays open until the owner decides it, and the document itself is never touched.",
+      "path": "reviewer-comments-resolution-list/",
+      "directory": "https://fullypowered.ai/capabilities/reviewer-comments-resolution-list/"
     }
   ]
 }

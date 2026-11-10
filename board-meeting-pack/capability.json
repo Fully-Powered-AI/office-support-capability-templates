@@ -1,0 +1,69 @@
+{
+  "id": "board-meeting-pack",
+  "name": "Board meeting pack",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before each board meeting, the CEO gets a pre-read built on the one decision the board is asked to make, with every figure from the company's own reports, an agenda kept mostly for discussion and the questions directors are likely to ask. Afterwards, a record of what was decided. The CEO sends it all.",
+  "directory": "https://fullypowered.ai/capabilities/board-meeting-pack/",
+  "primary_function": "functions/executive-and-office-support",
+  "functions": [
+    "functions/executive-and-office-support",
+    "functions/leadership"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/professional-services",
+    "industries/manufacturing",
+    "industries/nonprofits"
+  ],
+  "situations": [
+    "situations/startups-and-new-ventures",
+    "situations/private-equity-and-portfolios",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "meeting-agenda-notes-and-follow-ups",
+    "budget-versus-actual-variance-commentary",
+    "thirteen-week-cash-flow-forecast"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for prepared work: every figure traced to a named report, no choice between reports that disagree, no cause or decision supplied by the assistant, the CEO's messages checked against the figures, questions to settle before anything goes out, and a person who decides and sends."
+    },
+    {
+      "kind": "third-party",
+      "repository": "swan-gtm/gtm-skills",
+      "commit": "78f59eb9e48d4e1a850d38e66d2501d3347da281",
+      "path": "skills/jason-mesiarik/board-meeting-prep/SKILL.md",
+      "licence": "MIT",
+      "contribution": "From SKILL.md and its reference files in the same folder (references/decision-brief.md, references/pre-read-and-room.md, references/standing-report.md, references/altitude-and-qa.md): the decision-first pre-read: a single decision with no more than two questions for advice, no more than three messages each supported by figures, a decision brief from what changed through options that include carrying on unchanged to the decision as the minutes would record it, a check that the ask really needs the board, the questions a request for money must answer, standing figures laid out identically each meeting with causes for large variances, an agenda weighted towards discussion, director questions drawn from warning signs and director interests, and a call to each director beforehand.",
+      "text_reused": false,
+      "notice": "notices/swan-gtm-gtm-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "LeadMagic/gtm-skills",
+      "commit": "2b7ec0f9e7044f46e4c77b536f486303fd863e28",
+      "path": "skills/founder-led/board-meeting-prep/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Every figure set against plan with a status and none left out for being behind; options and a recommendation for each topic; timed agenda slots throughout and an executive session at the end; and after the meeting a record of decisions and actions with owners and dates, corrected figures sent to directors when a number changes at the meeting, and follow-up on what directors were promised.",
+      "text_reused": false,
+      "notice": "notices/LeadMagic-gtm-skills-LICENSE.txt"
+    }
+  ]
+}

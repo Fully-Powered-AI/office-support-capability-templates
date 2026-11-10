@@ -1,0 +1,76 @@
+{
+  "id": "reviewer-comments-resolution-list",
+  "name": "Reviewer comments into one resolution list",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "The owner of a document that came back from several reviewers gets one checklist: every proposed edit and comment, grouped by section, with clashes between reviewers set side by side. Every item stays open until the owner decides it, and the document itself is never touched.",
+  "directory": "https://fullypowered.ai/capabilities/reviewer-comments-resolution-list/",
+  "primary_function": "functions/executive-and-office-support",
+  "functions": [
+    "functions/executive-and-office-support",
+    "functions/project-and-delivery"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/engineering-firms",
+    "industries/nonprofits"
+  ],
+  "situations": [
+    "situations/established-businesses"
+  ],
+  "related": [
+    "copy-edit-with-a-change-list",
+    "meeting-agenda-notes-and-follow-ups",
+    "client-status-update-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "The general business form of the work: the list of agreements between reviewers, the default export columns and the stop when an export's headers differ, notes split into single requests, a watch list the owner sets, with names and promises about future work added, a naming rule the owner sets, the earlier-version question, the rules for placing and ordering items within a section, the later run that records the owner's decisions, recounts and lists the accepted edits, and the acceptance tests."
+    },
+    {
+      "kind": "third-party",
+      "repository": "LegalQuants/lq-skills",
+      "commit": "884cf402949981ca2a4afb8ff88f19337005eecf",
+      "path": "skills/collating-reviewer-feedback/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "A checklist built from several reviewers' comments and tracked changes on one draft and never merged into it: each item kept under its reviewer, named unless the user asks for anonymity, with the exact words proposed, placed against the base with a confidence for its location, grouped by section, and given a status (open by default, then accepted, rejected or deferred) and a note for the owner's resolution; anything that cannot be extracted reliably, such as a table, a text box or a footnote, kept in the list as an item to check by hand; clashes, unlocated comments and a separate list of high-risk changes (dates, figures, whole-paragraph insertions or deletions, and changes to formatting alone, which can carry a change of meaning) called out apart; the stop when the base is unclear; and a request for the files or pasted comments, instead of a claimed collation, when none are supplied.",
+      "text_reused": false,
+      "notice": "notices/LegalQuants-lq-skills-collating-reviewer-feedback-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "LegalQuants/lq-skills",
+      "commit": "884cf402949981ca2a4afb8ff88f19337005eecf",
+      "path": "skills/collating-reviewer-feedback/references/reviewer-markup-model.md",
+      "licence": "Apache-2.0",
+      "contribution": "The narrow meaning of a clash (two inputs that cannot both be carried out, as distinct from two remarks on one subject), the graded levels of placement confidence, the resolution states including a deferred decision, dates and figures among the high-risk items, and the rule that an item is never settled by who proposed it or how often.",
+      "text_reused": false,
+      "notice": "notices/LegalQuants-lq-skills-collating-reviewer-feedback-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "LegalQuants/lq-skills",
+      "commit": "884cf402949981ca2a4afb8ff88f19337005eecf",
+      "path": "skills/collating-reviewer-feedback/examples/output.md",
+      "licence": "Apache-2.0",
+      "contribution": "The shape of a summary that names each reviewer's copy with the number of items taken from it, and the warning that the list must never claim to have merged or accepted changes.",
+      "text_reused": false,
+      "notice": "notices/LegalQuants-lq-skills-collating-reviewer-feedback-LICENSE.txt"
+    }
+  ]
+}

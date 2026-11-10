@@ -1,0 +1,68 @@
+{
+  "id": "research-summary-brief",
+  "name": "Research summary brief",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "An executive handed a pile of reports, articles or papers gets one brief: what each source found, where the sources agree and disagree, the limits of each, and exact quotations cited to the page. Built only from the documents supplied. What it means for the business stays the reader's call.",
+  "directory": "https://fullypowered.ai/capabilities/research-summary-brief/",
+  "primary_function": "functions/executive-and-office-support",
+  "functions": [
+    "functions/executive-and-office-support",
+    "functions/leadership"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/finance-and-investment",
+    "industries/nonprofits",
+    "industries/government"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/new-business-lines"
+  ],
+  "related": [
+    "competitor-profile-from-public-pages",
+    "customer-interview-synthesis",
+    "meeting-agenda-notes-and-follow-ups"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "The basis label on every finding, the counts-once rule for agreement that rests on the same data, the check of a headline against the document's own figures, the cited-but-not-supplied list, the quotation rules, the rule that the brief leaves the business judgment to its reader, and the acceptance tests."
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "product-team/research-summarizer/skills/research-summarizer/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Working only from documents a person hands over, summarising each source before comparing them, weighing credibility, evidence, age and bias, setting out agreement, disagreement and gaps, noting a missing date or author rather than supplying one, and tying each finding to a place in its source.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "product-team/research-summarizer/skills/research-summarizer/references/summary-templates.md",
+      "licence": "MIT",
+      "contribution": "Warning signs to look for in a report: a document written to sell a product, no account of how the data or sample was gathered, and claims larger than the evidence shown.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    }
+  ]
+}

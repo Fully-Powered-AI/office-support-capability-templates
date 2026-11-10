@@ -1,0 +1,78 @@
+{
+  "id": "decision-log",
+  "name": "Decision log",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Your chief of staff keeps one register of what the leadership actually approved, across every meeting and message: each decision with who approved it, each action with one owner and a date, what is overdue, and a flag wherever a new decision clashes with an earlier one or revives a rejected idea.",
+  "directory": "https://fullypowered.ai/capabilities/decision-log/",
+  "primary_function": "functions/executive-and-office-support",
+  "functions": [
+    "functions/executive-and-office-support",
+    "functions/leadership"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/software-technology",
+    "industries/manufacturing",
+    "industries/nonprofits"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/private-equity-and-portfolios"
+  ],
+  "related": [
+    "meeting-agenda-notes-and-follow-ups",
+    "internal-change-announcement",
+    "pilot-acceptance-test-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Approval by a named approver within their limits as the only way into the register, the list of what was discussed and not entered, the held-back rule, the choices under the duplicate-action and approver flags, never supplying an owner or a date, the default export headers with a stop on mismatch, the register changes listed for a person to make, and the acceptance tests."
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "c-level-advisor/skills/decision-logger/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Keeping only approved decisions in the register and the discussion behind them apart; checking, before an entry is made, for a decision that contradicts one in force, revives a rejected proposal or gives an action to a second owner; settling a conflict by replacing the earlier decision or returning it to the approver; reopening a rejected proposal only on the approver's explicit confirmation; and keeping a replaced entry in place with a mark rather than removing it.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "c-level-advisor/skills/decision-logger/templates/decision-entry.md",
+      "licence": "MIT",
+      "contribution": "The fields of a decision entry (the decision, owner, deadline, review date, reason, rejected options with their reasons, supersedes and superseded by) and the rules that an entry holds one decision and an action has one owner.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "c-level-advisor/skills/decision-logger/scripts/decision_tracker.py",
+      "licence": "MIT",
+      "contribution": "Read as text, never run: the lists of overdue actions and of actions due within a set number of days, and comparing active decisions with earlier rejected options.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    }
+  ]
+}
