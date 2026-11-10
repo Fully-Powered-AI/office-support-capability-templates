@@ -1,0 +1,68 @@
+{
+  "id": "delegation-brief-and-follow-up",
+  "name": "Delegation brief and follow-up",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Every task a manager hands over goes with a clear brief: what to deliver, in what form, by what date and time, why it matters, who will use it, what the person may decide alone and when the manager will check in. Each week, one list shows what is open, what is late and the next note to send.",
+  "directory": "https://fullypowered.ai/capabilities/delegation-brief-and-follow-up/",
+  "primary_function": "functions/executive-and-office-support",
+  "functions": [
+    "functions/executive-and-office-support",
+    "functions/leadership"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/software-technology",
+    "industries/finance-and-investment",
+    "industries/nonprofits"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/startups-and-new-ventures"
+  ],
+  "related": [
+    "decision-log",
+    "meeting-agenda-notes-and-follow-ups",
+    "pilot-acceptance-test-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "The line on what the person may decide, spend and contact without asking; what done means; the due time; a question for every gap; the working-day rules for acknowledgement, midpoint and final checks; the grouping of open tasks and the count of working days late; the escalation point with the manager's five courses; requests for more time as questions; the default list columns with a stop on mismatch; neutral note wording; list changes held for the manager; and leaving out remarks about people, with nobody rated, ranked or compared."
+    },
+    {
+      "kind": "third-party",
+      "repository": "panaversity/agentfactory-business-plugins",
+      "commit": "4497a99e149ffe2447eeaeed1d7706cd91c2edfb",
+      "path": "agentic-office/skills/delegation/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "The contents of a handover: one named person, the thing to hand back rather than the effort, a firm date, purpose, readers, form, exclusions and earlier work; a short fixed time to confirm receipt; check-ins spaced by the length of the task; firmer follow-up as a task gets later, up to taking it back or moving it; explaining in-house names; and closing a task only when the manager has the work and is satisfied.",
+      "text_reused": false,
+      "notice": "notices/panaversity-agentfactory-business-plugins-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "panaversity/agentfactory-business-plugins",
+      "commit": "4497a99e149ffe2447eeaeed1d7706cd91c2edfb",
+      "path": "agentic-office/skills/delegation/evals/evals.json",
+      "licence": "Apache-2.0",
+      "contribution": "A weekly view of open tasks that keeps those nobody has confirmed apart from those under way, and gives every open task a next step.",
+      "text_reused": false,
+      "notice": "notices/panaversity-agentfactory-business-plugins-LICENSE.txt"
+    }
+  ]
+}

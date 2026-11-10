@@ -12,12 +12,28 @@
       "directory": "https://fullypowered.ai/capabilities/board-meeting-pack/"
     },
     {
+      "id": "business-trip-plan",
+      "name": "Business trip plan",
+      "version": "0.1.0",
+      "summary": "The assistant hands the traveller one plan for one business trip: dates and nights fixed from the brief, travel and hotel options with prices and the day each was checked, a day-by-day timetable around the meetings, the cost against travel policy and the bookings still to make. Nothing is booked or paid.",
+      "path": "business-trip-plan/",
+      "directory": "https://fullypowered.ai/capabilities/business-trip-plan/"
+    },
+    {
       "id": "decision-log",
       "name": "Decision log",
       "version": "0.1.0",
       "summary": "Your chief of staff keeps one register of what the leadership actually approved, across every meeting and message: each decision with who approved it, each action with one owner and a date, what is overdue, and a flag wherever a new decision clashes with an earlier one or revives a rejected idea.",
       "path": "decision-log/",
       "directory": "https://fullypowered.ai/capabilities/decision-log/"
+    },
+    {
+      "id": "delegation-brief-and-follow-up",
+      "name": "Delegation brief and follow-up",
+      "version": "0.1.0",
+      "summary": "Every task a manager hands over goes with a clear brief: what to deliver, in what form, by what date and time, why it matters, who will use it, what the person may decide alone and when the manager will check in. Each week, one list shows what is open, what is late and the next note to send.",
+      "path": "delegation-brief-and-follow-up/",
+      "directory": "https://fullypowered.ai/capabilities/delegation-brief-and-follow-up/"
     },
     {
       "id": "meeting-agenda-notes-and-follow-ups",
@@ -42,6 +58,14 @@
       "summary": "The owner of a document that came back from several reviewers gets one checklist: every proposed edit and comment, grouped by section, with clashes between reviewers set side by side. Every item stays open until the owner decides it, and the document itself is never touched.",
       "path": "reviewer-comments-resolution-list/",
       "directory": "https://fullypowered.ai/capabilities/reviewer-comments-resolution-list/"
+    },
+    {
+      "id": "staff-newsletter-and-faq-roundup",
+      "name": "Staff newsletter and FAQ roundup",
+      "version": "0.1.0",
+      "summary": "Each month the office manager turns what teams send in into one staff newsletter, with answers to the questions people keep asking, each quoted from an approved source and its owner named. Nothing about one person's pay, health or performance goes in, and a person approves the issue before it goes.",
+      "path": "staff-newsletter-and-faq-roundup/",
+      "directory": "https://fullypowered.ai/capabilities/staff-newsletter-and-faq-roundup/"
     }
   ]
 }

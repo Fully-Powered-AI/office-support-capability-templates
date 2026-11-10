@@ -1,0 +1,78 @@
+{
+  "id": "staff-newsletter-and-faq-roundup",
+  "name": "Staff newsletter and FAQ roundup",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Each month the office manager turns what teams send in into one staff newsletter, with answers to the questions people keep asking, each quoted from an approved source and its owner named. Nothing about one person's pay, health or performance goes in, and a person approves the issue before it goes.",
+  "directory": "https://fullypowered.ai/capabilities/staff-newsletter-and-faq-roundup/",
+  "primary_function": "functions/executive-and-office-support",
+  "functions": [
+    "functions/executive-and-office-support",
+    "functions/people-and-hr"
+  ],
+  "industries": [
+    "industries/manufacturing",
+    "industries/professional-services",
+    "industries/software-technology",
+    "industries/nonprofits"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "internal-change-announcement",
+    "policy-answers-from-the-handbook",
+    "meeting-agenda-notes-and-follow-ups"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for prepared work: a table of team updates with stated columns, people news only with the person's agreement, an individual's pay, health and performance kept out whatever is agreed, unannounced changes sent back to their owner, every answer quoted word for word from an approved source with its owner and date, unanswered questions listed for their owner instead of answered, and a named approver for every issue."
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "project-management/skills/team-communications/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Agreeing the period and the readers before drafting, working only from facts the person supplied, and naming the team that did the work.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "project-management/skills/team-communications/references/company-newsletter.md",
+      "licence": "MIT",
+      "contribution": "Items grouped under a few headings, each a line or two long with a link to where it came from, and a preference for news that reaches most of the staff over one team's detail.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "project-management/skills/team-communications/references/faq-answers.md",
+      "licence": "MIT",
+      "contribution": "Choosing the questions many people ask, answering each briefly from what the company has already written, pointing to that source, and sending a question that needs a leader to that leader.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "business-trip-plan",
+  "name": "Business trip plan",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "The assistant hands the traveller one plan for one business trip: dates and nights fixed from the brief, travel and hotel options with prices and the day each was checked, a day-by-day timetable around the meetings, the cost against travel policy and the bookings still to make. Nothing is booked or paid.",
+  "directory": "https://fullypowered.ai/capabilities/business-trip-plan/",
+  "primary_function": "functions/executive-and-office-support",
+  "functions": [
+    "functions/executive-and-office-support",
+    "functions/sales"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/engineering-firms",
+    "industries/manufacturing",
+    "industries/software-technology"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "meeting-agenda-notes-and-follow-ups",
+    "event-plan",
+    "pilot-acceptance-test-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "The business-trip form of the work: the timing check against fixed meetings with set margins, the check against a pasted travel policy and its approver, the price age that triggers a recheck, the list of bookings still to make with their deadlines, the default option headers with a stop on any mismatch, and the acceptance tests."
+    },
+    {
+      "kind": "third-party",
+      "repository": "AtlasOmnia/hermes-custom-pack",
+      "commit": "d30fb6688f44e2adaa6280a919705a8ddd6e9c27",
+      "path": "skills/domestic-trip-planning/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Settling dates and nights before any price and redoing the figures when they move; checking the starting airport and each place's town first; setting aside options that break the traveller's needs before comparing the rest; showing where each price was found; recording why a dearer choice was needed when policy is in question.",
+      "text_reused": false,
+      "notice": "notices/AtlasOmnia-hermes-custom-pack-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "AtlasOmnia/hermes-custom-pack",
+      "commit": "d30fb6688f44e2adaa6280a919705a8ddd6e9c27",
+      "path": "skills/domestic-trip-planning/references/live-flight-pricing.md",
+      "licence": "MIT",
+      "contribution": "Pricing the exact route and dates rather than a headline fare, giving the cheapest choice that works and a second one, and marking an extra charge as not priced instead of guessing it.",
+      "text_reused": false,
+      "notice": "notices/AtlasOmnia-hermes-custom-pack-LICENSE.txt"
+    }
+  ]
+}
