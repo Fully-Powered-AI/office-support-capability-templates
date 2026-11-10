@@ -3,7 +3,7 @@
 - **Product:** Claude Code
 - **Model:** Claude Fable 5.2
 - **Date:** 2026-11-09
-- **Runs:** one, on the instructions as they now stand
+- **Runs:** two on the same day; this page records the second, on the instructions as they stood for that run
 
 The inputs are the invented example published with this template. The company, its people, its figures and its jobs are invented, and no client data was used. This is a record of one run on that example. It is not a test in any company's environment.
 
@@ -175,3 +175,23 @@ The first run, on the earlier wording, differed from the example as it then stoo
 - The run gave "Decided by" under each decision and the example gave it once. The instructions and the output format now ask for it under each decision.
 - The instructions did not say which kind of topic one with no outcome is, how to count an item missing both an owner and a date, or that the output format has to be pasted with the instructions. All three are now stated.
 - The notes carried no date of their own. Priya's notes now give the day's date, and the instructions say to take today's date from the person.
+
+## Edited after the recorded run
+
+9 November 2026. After an independent review, the template and the example were edited without a further run. The output and the observations above are unchanged and describe the instructions as they stood for the second run.
+
+Changed in the instructions for the AI assistant:
+
+- a transcript supplied in place of notes is worked the same way;
+- a decision that needs someone who was not in the room is recorded with that condition;
+- a loose point for looking at a decision again stays in the decision as a condition and is not a gap (point 3 above);
+- an action from last time marked "Not known" is stated to be a gap;
+- a fact already shown under Decisions or Open from last time is not repeated under "For the record" (point 6 above);
+- an agenda outcome the notes do not show was reached is noted in the question, parked item or open question for that topic (point 5 above);
+- the follow-up draft takes no heading or paragraph the output format does not have, which the recorded run added;
+- something the notes do not show is added only as "added by [name] after the meeting";
+- two lines were rewrapped.
+
+The output format was not changed. In the template outside the instructions: the person who ran the meeting removes the "Held back" line before the record is filed or shared; two acceptance tests were reworded and one was added.
+
+Changed in the example: the parts figure is written "$4k", as in the notes and in this run; the held-back line no longer says what the reason for the absence concerned; and question 3 now says the agenda asked who owns returns and the notes do not say, so that difference from this run, listed above, no longer holds.

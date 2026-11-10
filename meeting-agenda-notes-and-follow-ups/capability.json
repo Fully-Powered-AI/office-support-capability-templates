@@ -49,7 +49,7 @@
       "commit": "19392f7a08264ed00486a251f5b2098321771f94",
       "path": "productivity/meetings/skills/meetings",
       "licence": "MIT",
-      "contribution": "The agenda rules (an outcome for every topic, decision topics first, times that must fit the meeting, a closing read-back) and the rule that an action with no owner or no date is flagged for a person to settle.",
+      "contribution": "The agenda rules (an outcome for every topic, decision topics first, times that must fit the meeting, a closing read-back), a check that a meeting with nothing to decide or discuss could be a written update, moving an update into the reading when time runs over, and the rule that an action with no owner or no date is flagged for a person to settle.",
       "text_reused": false,
       "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
     },

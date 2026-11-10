@@ -100,7 +100,8 @@ Source: Priya's notes, supplied 3 November.
 To settle before this goes out: 5
 1. A2 has no owner and no date. Who gets the lease quote, and by when?
 2. A3 says "this week". Which date?
-3. A4 names Tom and Marcus. Which one owns it, and by when?
+3. A4 names Tom and Marcus. Which one owns it, and by when? The agenda asked the meeting to
+   agree who owns returns, and the notes do not say.
 4. Q1 has nobody finding the answer. Who, and by when?
 5. Jo's price sheet: the notes do not say whether it was sent. Ask Jo.
 
@@ -133,12 +134,12 @@ Open from last time (27 October)
 
 For the record
 - The meeting started at 9:05.
-- About $4,000 of unreturned parts are in the warehouse, some past the supplier's 30-day window.
+- $4k of unreturned parts are in the warehouse, some past the supplier's 30-day window.
 - The install backlog is 23 jobs, 3 of them waiting on permits.
 - The Van 7 repair quote is now $6,800. The agenda said $6,200.
 
-Held back: one item, the reason for one person's absence, which concerns health. It is left out
-of the record above and the draft below.
+Held back: one item, the reason for an absence. It is left out of the record above and the draft
+below.
 
 Next meeting
 Date: not stated in the notes. Proposed topics: Van 7 once the lease quote is in (P1); the parts
