@@ -1,0 +1,67 @@
+{
+  "id": "meeting-agenda-notes-and-follow-ups",
+  "name": "Meeting agenda, notes and follow-ups",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Whoever runs the meeting walks in with an agenda where every topic has an outcome and a time, and walks out with a one-page record: what was decided, who owns each action and by when, and what is still open. Nothing reaches anyone until that person has read it and sends it.",
+  "directory": "https://fullypowered.ai/capabilities/meeting-agenda-notes-and-follow-ups/",
+  "primary_function": "functions/executive-and-office-support",
+  "functions": [
+    "functions/executive-and-office-support",
+    "functions/project-and-delivery"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/construction",
+    "industries/software-technology",
+    "industries/nonprofits"
+  ],
+  "situations": [
+    "situations/established-businesses"
+  ],
+  "related": [
+    "client-status-update-preparation",
+    "weekly-receivables-summary",
+    "pilot-acceptance-test-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "The paste-in form of the work, the gap list, the held-back rule, the follow-up draft and the acceptance tests."
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "productivity/meetings/skills/meetings",
+      "licence": "MIT",
+      "contribution": "The agenda rules (an outcome for every topic, decision topics first, times that must fit the meeting, a closing read-back) and the rule that an action with no owner or no date is flagged for a person to settle.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "panaversity/agentfactory-business-plugins",
+      "commit": "4497a99e149ffe2447eeaeed1d7706cd91c2edfb",
+      "path": "agentic-office/skills/meeting-intelligence",
+      "licence": "Apache-2.0",
+      "contribution": "The before-and-after shape of the work, a coded key for taking notes, and a record that keeps decisions, actions, parked items and open questions apart, each parked item with what brings it back.",
+      "text_reused": false,
+      "notice": "notices/panaversity-agentfactory-business-plugins-LICENSE.txt"
+    }
+  ]
+}
