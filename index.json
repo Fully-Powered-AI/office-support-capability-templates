@@ -36,12 +36,36 @@
       "directory": "https://fullypowered.ai/capabilities/delegation-brief-and-follow-up/"
     },
     {
+      "id": "executive-week-ahead-calendar-review",
+      "name": "Executive week-ahead calendar review",
+      "version": "0.1.0",
+      "summary": "Before the week starts, the executive assistant hands the executive one brief: every clash, every journey or run of meetings with too little time, every meeting with no stated purpose or no preparation time, and proposed time for the week's priorities. Nothing is accepted, declined, moved or sent.",
+      "path": "executive-week-ahead-calendar-review/",
+      "directory": "https://fullypowered.ai/capabilities/executive-week-ahead-calendar-review/"
+    },
+    {
+      "id": "inbox-triage",
+      "name": "Inbox triage",
+      "version": "0.1.0",
+      "summary": "The owner, or the assistant who keeps their inbox, starts the day knowing what needs a reply today, what can wait and until when, and what belongs to someone else, with a draft or a forwarding note for each. Nothing is sent, archived, deleted or moved, and no mailbox login is needed.",
+      "path": "inbox-triage/",
+      "directory": "https://fullypowered.ai/capabilities/inbox-triage/"
+    },
+    {
       "id": "meeting-agenda-notes-and-follow-ups",
       "name": "Meeting agenda, notes and follow-ups",
       "version": "0.1.0",
       "summary": "Whoever runs the meeting walks in with an agenda where every topic has an outcome and a time, and walks out with a one-page record: what was decided, who owns each action and by when, and what is still open. Nothing reaches anyone until that person has read it and sends it.",
       "path": "meeting-agenda-notes-and-follow-ups/",
       "directory": "https://fullypowered.ai/capabilities/meeting-agenda-notes-and-follow-ups/"
+    },
+    {
+      "id": "presentation-outline-and-talk-track",
+      "name": "Presentation outline and talk track",
+      "version": "0.1.0",
+      "summary": "Anyone presenting to a board, a client or a conference gets a storyboard built on one message, then a spoken script for every slide, timed to the slot and true to their own speaker notes. Every fact comes from what the presenter supplied, and the presenter approves the message and the words.",
+      "path": "presentation-outline-and-talk-track/",
+      "directory": "https://fullypowered.ai/capabilities/presentation-outline-and-talk-track/"
     },
     {
       "id": "research-summary-brief",
@@ -58,6 +82,14 @@
       "summary": "The owner of a document that came back from several reviewers gets one checklist: every proposed edit and comment, grouped by section, with clashes between reviewers set side by side. Every item stays open until the owner decides it, and the document itself is never touched.",
       "path": "reviewer-comments-resolution-list/",
       "directory": "https://fullypowered.ai/capabilities/reviewer-comments-resolution-list/"
+    },
+    {
+      "id": "shared-folder-filing-plan",
+      "name": "Shared folder filing plan",
+      "version": "0.1.0",
+      "summary": "The office coordinator gets a plan for tidying a shared folder: a proposed folder structure, every file's move with its owner named, and the duplicates and access questions to settle first. Owners approve their own moves; nothing is moved, renamed or deleted.",
+      "path": "shared-folder-filing-plan/",
+      "directory": "https://fullypowered.ai/capabilities/shared-folder-filing-plan/"
     },
     {
       "id": "staff-newsletter-and-faq-roundup",

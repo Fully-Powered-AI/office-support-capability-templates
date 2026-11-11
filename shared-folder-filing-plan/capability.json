@@ -1,0 +1,46 @@
+{
+  "id": "shared-folder-filing-plan",
+  "name": "Shared folder filing plan",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "The office coordinator gets a plan for tidying a shared folder: a proposed folder structure, every file's move with its owner named, and the duplicates and access questions to settle first. Owners approve their own moves; nothing is moved, renamed or deleted.",
+  "directory": "https://fullypowered.ai/capabilities/shared-folder-filing-plan/",
+  "primary_function": "functions/executive-and-office-support",
+  "functions": [
+    "functions/executive-and-office-support"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/engineering-firms",
+    "industries/nonprofits"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "staff-newsletter-and-faq-roundup",
+    "departing-employee-knowledge-capture",
+    "decision-log"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own map of office filing work, written from how a coordinator tidies a shared folder: numbered filing rules where the first match decides, exact comparison of who can see a file with who can see its new folder, duplicates held for their owners, and every move approved by the document's owner."
+    }
+  ]
+}

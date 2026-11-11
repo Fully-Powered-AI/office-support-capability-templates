@@ -1,0 +1,78 @@
+{
+  "id": "inbox-triage",
+  "name": "Inbox triage",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "The owner, or the assistant who keeps their inbox, starts the day knowing what needs a reply today, what can wait and until when, and what belongs to someone else, with a draft or a forwarding note for each. Nothing is sent, archived, deleted or moved, and no mailbox login is needed.",
+  "directory": "https://fullypowered.ai/capabilities/inbox-triage/",
+  "primary_function": "functions/executive-and-office-support",
+  "functions": [
+    "functions/executive-and-office-support",
+    "functions/leadership"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/real-estate",
+    "industries/construction",
+    "industries/finance-and-investment"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "meeting-agenda-notes-and-follow-ups",
+    "customer-reply-drafting",
+    "supplier-bill-review-and-payment-run-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "The export and paste-in form with its header check, the arrangement and order of the seven groups (several of which apply ideas credited below), the reply-by date, the private group, the question list and the acceptance tests."
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/knowledge-work-plugins",
+      "commit": "02ffa99ff00ce4d3046ccebabb8357cb39f3ab06",
+      "path": "small-business/skills/inbox-manager",
+      "licence": "Apache-2.0",
+      "contribution": "Ordering what needs the owner by the cost of a day's delay; pulling out the ask, amounts, who is waiting and earlier promises; asking for recent promises when only pasted mail is supplied; holding bank-detail, payment and log-in requests with no draft and checking the sender's address; leaving a thread a colleague already answered; telling a bill from a receipt; no price or date in a draft the owner has not given; reporting mail that needs no reply as one count broken down by kind, not item by item.",
+      "text_reused": false,
+      "notice": "notices/anthropics-knowledge-work-plugins-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "productivity/email/skills/inbox-triage",
+      "licence": "MIT",
+      "contribution": "The drafts-only rule, routing unusual, threatening or money matters straight to the owner, undrafted, no draft where the owner has already replied, and keeping follow-ups with a status, flagging those due today or overdue even when no new message has arrived.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "GTMify/aigtm",
+      "commit": "1cb992d7589f85b8ffa07f13f2c60f2028ba39b4",
+      "path": "skills/inbox-triage",
+      "licence": "MIT",
+      "contribution": "The split between replies due today and replies that can wait, handing a message to the colleague who should deal with it with a short forwarding note, and drafts that answer the core ask first and buy time honestly when the answer is not known.",
+      "text_reused": false,
+      "notice": "notices/GTMify-aigtm-LICENSE.txt"
+    }
+  ]
+}

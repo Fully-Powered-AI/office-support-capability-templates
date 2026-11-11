@@ -1,0 +1,68 @@
+{
+  "id": "presentation-outline-and-talk-track",
+  "name": "Presentation outline and talk track",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Anyone presenting to a board, a client or a conference gets a storyboard built on one message, then a spoken script for every slide, timed to the slot and true to their own speaker notes. Every fact comes from what the presenter supplied, and the presenter approves the message and the words.",
+  "directory": "https://fullypowered.ai/capabilities/presentation-outline-and-talk-track/",
+  "primary_function": "functions/executive-and-office-support",
+  "functions": [
+    "functions/executive-and-office-support",
+    "functions/leadership",
+    "functions/sales"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/software-technology",
+    "industries/nonprofits"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/startups-and-new-ventures"
+  ],
+  "related": [
+    "meeting-agenda-notes-and-follow-ups",
+    "quarterly-business-review-preparation",
+    "recorded-sessions-into-articles"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "The unscripted allowance and slide limit, the default three-part shape, the facts-used list, the limits on cuts, and the acceptance tests."
+    },
+    {
+      "kind": "third-party",
+      "repository": "manojbajaj95/claude-gtm-plugin",
+      "commit": "0830a46f4cfbbc8642c07b5c3748afd8efd24571",
+      "path": "skills/slide-outline/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Settling format, audience and goal first; one message that says what it means for the audience, supported by points and facts; headlines that state each slide's point and tell the story when read alone; one point per slide; conclusion first; the storyboard agreed before the next stage.",
+      "text_reused": false,
+      "notice": "notices/manojbajaj95-claude-gtm-plugin-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "microsoft/cat-agent-skills",
+      "commit": "3158d47b2ae78e98027487d7a744827931a20d0a",
+      "path": "submissions/presentation-talk-track-builder/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Spoken, first-person words for every slide, each led in from the last, with delivery cues and a closing handover; speaker notes taking precedence over slide text, and a note after the script of every place it differs from the slide; length set from slot and speaking pace, with a timing table and lines to cut; gaps marked for the presenter; material marked not public flagged before use; slides supplied as pictures read with no notes.",
+      "text_reused": false,
+      "notice": "notices/microsoft-cat-agent-skills-LICENSE.txt"
+    }
+  ]
+}

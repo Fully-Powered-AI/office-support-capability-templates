@@ -1,0 +1,48 @@
+{
+  "id": "executive-week-ahead-calendar-review",
+  "name": "Executive week-ahead calendar review",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before the week starts, the executive assistant hands the executive one brief: every clash, every journey or run of meetings with too little time, every meeting with no stated purpose or no preparation time, and proposed time for the week's priorities. Nothing is accepted, declined, moved or sent.",
+  "directory": "https://fullypowered.ai/capabilities/executive-week-ahead-calendar-review/",
+  "primary_function": "functions/executive-and-office-support",
+  "functions": [
+    "functions/executive-and-office-support",
+    "functions/leadership"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/law-firms",
+    "industries/real-estate",
+    "industries/nonprofits"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "meeting-agenda-notes-and-follow-ups",
+    "business-trip-plan",
+    "delegation-brief-and-follow-up"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of executive and office support work: getting the executive's week ready before it fills up, with who starts it, what goes in, what comes out and who decides."
+    }
+  ]
+}
