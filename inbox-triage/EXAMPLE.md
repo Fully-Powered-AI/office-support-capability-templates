@@ -1,6 +1,6 @@
 # Inbox triage: an invented example
 
-*Illustrative example with invented data.* Tallow Lane Property Management is an invented 25-person firm that manages office buildings for their owners. Its managing director, Helen Marsh, and her executive assistant, Owen Hale, are invented, as are every sender, address, building and amount below. Every address uses the reserved `.example` domain. Owen runs the capability at 08:30 on Monday 9 November 2026, before Helen arrives. First come the inputs he supplied, in full, then the triage that came back.
+*Illustrative example with invented data.* Tallow Lane Property Management is an invented 25-person firm that manages office buildings for their owners. Its managing director, Helen Marsh, and her executive assistant, Owen Hale, are invented, as are every sender, address, building and amount below. Every address uses the reserved `.example` domain. Owen runs the workflow template at 08:30 on Monday 9 November 2026, before Helen arrives. First come the inputs he supplied, in full, then the triage that came back.
 
 ## The inputs
 

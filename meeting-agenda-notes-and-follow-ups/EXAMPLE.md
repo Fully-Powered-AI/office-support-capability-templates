@@ -1,6 +1,6 @@
 # Meeting agenda, notes and follow-ups: an invented example
 
-*Illustrative example with invented data.* Brackenfold Mechanical is an invented 40-person heating and cooling contractor. The people, figures and jobs are invented too. Priya, the operations manager, runs the weekly operations meeting. She uses the capability twice: on Friday 30 October 2026 with her topics, and on Tuesday 3 November straight after the meeting with her notes.
+*Illustrative example with invented data.* Brackenfold Mechanical is an invented 40-person heating and cooling contractor. The people, figures and jobs are invented too. Priya, the operations manager, runs the weekly operations meeting. She uses the workflow template twice: on Friday 30 October 2026 with her topics, and on Tuesday 3 November straight after the meeting with her notes.
 
 Settings used: reading goes out one working day before the meeting; the closing read-back takes 5 minutes; the follow-up goes to everyone invited.
 

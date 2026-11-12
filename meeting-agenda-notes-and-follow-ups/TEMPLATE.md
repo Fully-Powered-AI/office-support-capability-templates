@@ -1,6 +1,6 @@
 # Meeting agenda, notes and follow-ups
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 

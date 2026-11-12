@@ -2,13 +2,13 @@
 
 Whoever runs the meeting walks in with an agenda where every topic has an outcome and a time, and walks out with a one-page record: what was decided, who owns each action and by when, and what is still open. Nothing reaches anyone until that person has read it and sends it.
 
-*Capability template · Executive and office support · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/meeting-agenda-notes-and-follow-ups/)*
+*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/meeting-agenda-notes-and-follow-ups/)*
 
 ## The outcome
 
 Every meeting you run ends in decisions and owners, on one page, the same day. People arrive knowing what will be decided and what to read first. They leave with their own actions in writing, each with a date. Next week’s meeting opens on what was promised, so nothing is discussed twice.
 
-The record is not a transcript. It leaves out who argued what and keeps what the room settled. Where the notes show an action with no owner, two owners or no date, the capability says so and asks you. It never picks a name or a date for you, and it never sends, invites or updates anything.
+The record is not a transcript. It leaves out who argued what and keeps what the room settled. Where the notes show an action with no owner, two owners or no date, the workflow template says so and asks you. It never picks a name or a date for you, and it never sends, invites or updates anything.
 
 ## Who starts the work, and when
 
@@ -51,9 +51,9 @@ Decide which meetings use it first; a weekly meeting with the same people is the
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, in two runs; the instructions were corrected between them, and the record of the second run is published with the template. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, in two runs; the instructions were corrected between them, and the record of the second run is published with the template. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on the notes of three or four past meetings whose outcomes you already know, plus hard cases written in advance: an action nobody took, a topic that was talked about and not decided, two note-takers who disagree, an agenda that does not fit its time. The person who ran each meeting checks every decision and owner against what happened. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on the notes of three or four past meetings whose outcomes you already know, plus hard cases written in advance: an action nobody took, a topic that was talked about and not decided, two note-takers who disagree, an agenda that does not fit its time. The person who ran each meeting checks every decision and owner against what happened. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -64,11 +64,11 @@ Testing in your environment means running it on the notes of three or four past 
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -78,12 +78,12 @@ Testing in your environment means running it on the notes of three or four past 
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Client-status update preparation](https://fullypowered.ai/capabilities/client-status-update-preparation/)
-- [Weekly receivables summary](https://fullypowered.ai/capabilities/weekly-receivables-summary/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/)
+- [Client-status update preparation](https://fullypowered.ai/workflow templates/client-status-update-preparation/)
+- [Weekly receivables summary](https://fullypowered.ai/workflow templates/weekly-receivables-summary/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflow templates/pilot-acceptance-test-preparation/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

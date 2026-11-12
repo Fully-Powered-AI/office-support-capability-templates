@@ -1,6 +1,6 @@
 # Board meeting pack: an invented example
 
-*Illustrative example with invented data.* Company V is an invented 60-person business that sells booking and membership software to independent gyms and climbing walls. Its people, directors, distributors, reports and figures are all invented. Mara, the CEO, runs the capability twice: on Monday 12 October 2026 to prepare the pack for the board meeting of Thursday 22 October, and on the afternoon of the meeting with the notes. First come the inputs she supplied, in full, then what came back.
+*Illustrative example with invented data.* Company V is an invented 60-person business that sells booking and membership software to independent gyms and climbing walls. Its people, directors, distributors, reports and figures are all invented. Mara, the CEO, runs the workflow template twice: on Monday 12 October 2026 to prepare the pack for the board meeting of Thursday 22 October, and on the afternoon of the meeting with the notes. First come the inputs she supplied, in full, then what came back.
 
 ## Before the meeting
 

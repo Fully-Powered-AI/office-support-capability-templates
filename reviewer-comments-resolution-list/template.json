@@ -1,10 +1,10 @@
 {
   "id": "reviewer-comments-resolution-list",
   "name": "Reviewer comments into one resolution list",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "The owner of a document that came back from several reviewers gets one checklist: every proposed edit and comment, grouped by section, with clashes between reviewers set side by side. Every item stays open until the owner decides it, and the document itself is never touched.",
-  "directory": "https://fullypowered.ai/capabilities/reviewer-comments-resolution-list/",
+  "directory": "https://fullypowered.ai/workflow templates/reviewer-comments-resolution-list/",
   "primary_function": "functions/executive-and-office-support",
   "functions": [
     "functions/executive-and-office-support",

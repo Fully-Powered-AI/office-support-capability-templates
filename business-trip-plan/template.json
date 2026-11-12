@@ -1,10 +1,10 @@
 {
   "id": "business-trip-plan",
   "name": "Business trip plan",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "The assistant hands the traveller one plan for one business trip: dates and nights fixed from the brief, travel and hotel options with prices and the day each was checked, a day-by-day timetable around the meetings, the cost against travel policy and the bookings still to make. Nothing is booked or paid.",
-  "directory": "https://fullypowered.ai/capabilities/business-trip-plan/",
+  "directory": "https://fullypowered.ai/workflow templates/business-trip-plan/",
   "primary_function": "functions/executive-and-office-support",
   "functions": [
     "functions/executive-and-office-support",

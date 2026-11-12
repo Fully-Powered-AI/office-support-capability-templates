@@ -2,7 +2,7 @@
 
 The owner of a document that came back from several reviewers gets one checklist: every proposed edit and comment, grouped by section, with clashes between reviewers set side by side. Every item stays open until the owner decides it, and the document itself is never touched.
 
-*Capability template · Executive and office support · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/reviewer-comments-resolution-list/)*
+*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/reviewer-comments-resolution-list/)*
 
 ## The outcome
 
@@ -10,7 +10,7 @@ Three marked-up copies, two emails and a note from a phone call become one list 
 
 Nothing slips through. A comment on a table that no longer exists, or a change buried in a chart, is listed for you to check by hand instead of quietly disappearing. Changes to figures, dates, names and promises are marked so they get a second look.
 
-The capability never edits, merges or tidies your document, and it never decides who is right. Every item starts open. You decide each one, make the edits in your own document, and reply to your reviewers yourself.
+The workflow template never edits, merges or tidies your document, and it never decides who is right. Every item starts open. You decide each one, make the edits in your own document, and reply to your reviewers yourself.
 
 ## Who starts the work, and when
 
@@ -52,9 +52,9 @@ Set your watch list: the kinds of change that always need a second look in your 
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in three runs; the instructions were revised after the first and amended slightly after review, and the record of the third is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in three runs; the instructions were revised after the first and amended slightly after review, and the record of the third is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past documents whose review rounds you remember, plus hard cases written in advance: two reviewers who change the same figure differently, a comment on a section that was deleted, a change inside a chart, an export with different column names. The owner checks every item against the reviewers' copies before relying on the list. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three past documents whose review rounds you remember, plus hard cases written in advance: two reviewers who change the same figure differently, a comment on a section that was deleted, a change inside a chart, an export with different column names. The owner checks every item against the reviewers' copies before relying on the list. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -65,11 +65,11 @@ Testing in your environment means running it on two or three past documents whos
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -79,12 +79,12 @@ Testing in your environment means running it on two or three past documents whos
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Copy edit with a change list](https://fullypowered.ai/capabilities/copy-edit-with-a-change-list/)
+- [Copy edit with a change list](https://fullypowered.ai/workflow templates/copy-edit-with-a-change-list/)
 - [Meeting agenda, notes and follow-ups](../meeting-agenda-notes-and-follow-ups/)
-- [Client-status update preparation](https://fullypowered.ai/capabilities/client-status-update-preparation/)
+- [Client-status update preparation](https://fullypowered.ai/workflow templates/client-status-update-preparation/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

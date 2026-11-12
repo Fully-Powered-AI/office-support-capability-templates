@@ -2,7 +2,7 @@
 
 Each month the office manager turns what teams send in into one staff newsletter, with answers to the questions people keep asking, each quoted from an approved source and its owner named. Nothing about one person's pay, health or performance goes in, and a person approves the issue before it goes.
 
-*Capability template · Executive and office support · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/staff-newsletter-and-faq-roundup/)*
+*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/staff-newsletter-and-faq-roundup/)*
 
 ## The outcome
 
@@ -10,7 +10,7 @@ Your whole company hears the month's news in one place, in the same shape every 
 
 The questions that fill the HR inbox and the office chat get one clear answer for everyone, in the words of the document that already settles them, with the person who owns that document named beside it. When nothing in writing answers a question yet, the newsletter does not guess. The question goes to the person who should answer it, so next month it can be settled properly.
 
-The capability keeps three things out. Anything about one person's pay, health or performance stays out, even if they agreed. People news goes in only when the person it is about said yes. A change nobody has announced yet goes back to its owner, because a newsletter is no place to hear news like that first.
+The workflow template keeps three things out. Anything about one person's pay, health or performance stays out, even if they agreed. People news goes in only when the person it is about said yes. A change nobody has announced yet goes back to its owner, because a newsletter is no place to hear news like that first.
 
 ## Who starts the work, and when
 
@@ -52,9 +52,9 @@ Choose who approves each issue and who sends it. Set up the form or shared sheet
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026 in two runs; the instructions and the example were revised after the first, and the record of the second is published with it and lists the points the template still leaves open. Neither run was blind: each was made by a session that had seen the example's answer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026 in two runs; the instructions and the example were revised after the first, and the record of the second is published with it and lists the points the template still leaves open. Neither run was blind: each was made by a session that had seen the example's answer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past months whose issues you already sent, plus hard cases written in advance: a people-news item with no agreement recorded, an item about someone's health, a change nobody has announced, a question no document answers, an answer from an old document. The approver checks every item and every quote against its source before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three past months whose issues you already sent, plus hard cases written in advance: a people-news item with no agreement recorded, an item about someone's health, a change nobody has announced, a question no document answers, an answer from an old document. The approver checks every item and every quote against its source before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -65,11 +65,11 @@ Testing in your environment means running it on two or three past months whose i
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -79,12 +79,12 @@ Testing in your environment means running it on two or three past months whose i
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Internal change announcement](https://fullypowered.ai/capabilities/internal-change-announcement/)
-- [Policy answers from the handbook](https://fullypowered.ai/capabilities/policy-answers-from-the-handbook/)
+- [Internal change announcement](https://fullypowered.ai/workflow templates/internal-change-announcement/)
+- [Policy answers from the handbook](https://fullypowered.ai/workflow templates/policy-answers-from-the-handbook/)
 - [Meeting agenda, notes and follow-ups](../meeting-agenda-notes-and-follow-ups/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

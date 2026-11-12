@@ -1,6 +1,6 @@
 # Business trip plan
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -12,7 +12,7 @@ Use it once the meetings for a trip are fixed, usually two to four weeks ahead, 
 
 Do not use it for:
 
-- a group trip, an offsite or an event. Run it once per traveller, or use the event plan capability for the event itself;
+- a group trip, an offsite or an event. Run it once per traveller, or use the event plan workflow template for the event itself;
 - visas, entry rules, vaccinations or other requirements to enter a country. The traveller checks those with the official government sources; the plan only records that they have been checked;
 - an expense claim after the trip, or deciding whether a trip should happen at all;
 - making, holding, changing or paying for any booking. People do that.

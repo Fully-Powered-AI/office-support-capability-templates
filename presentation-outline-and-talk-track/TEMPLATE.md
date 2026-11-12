@@ -1,6 +1,6 @@
 # Presentation outline and talk track
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -14,7 +14,7 @@ Do not use it for:
 
 - slide design: layouts, charts, colours, images or animation;
 - a written paper or pre-read that people read before a meeting instead of hearing it;
-- turning a recorded talk into an article afterwards, which is a separate capability;
+- turning a recorded talk into an article afterwards, which is a separate workflow template;
 - a talk whose facts the presenter cannot supply, such as market figures nobody has yet;
 - words to be delivered as if they were someone else's, without that person approving them.
 

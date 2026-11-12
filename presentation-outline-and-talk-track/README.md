@@ -2,7 +2,7 @@
 
 Anyone presenting to a board, a client or a conference gets a storyboard built on one message, then a spoken script for every slide, timed to the slot and true to their own speaker notes. Every fact comes from what the presenter supplied, and the presenter approves the message and the words.
 
-*Capability template · Executive and office support · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/presentation-outline-and-talk-track/)*
+*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/presentation-outline-and-talk-track/)*
 
 ## The outcome
 
@@ -31,7 +31,7 @@ No drive, mailbox or presentation software is connected. Everything is pasted in
 3. **A timing table.** Words and time per slide and in total, against the time available, with the lines to drop if the talk runs long.
 4. **Three checks.** Every place your notes and your slides disagree, everything held back because it is not yet public, and every fact in the script with its source.
 
-The slides themselves stay yours: the capability describes what each slide must show and never designs or edits one.
+The slides themselves stay yours: the workflow template describes what each slide must show and never designs or edits one.
 
 See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
@@ -48,13 +48,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has to change for your company
 
-Set each presenter's pace, ideally from one timed read-aloud. Decide how much of a slot stays unscripted and how many slides a slot may carry. Pick a default shape for your talks, or keep ours: where we stand, what it means, what we ask. Agree how unreleased figures are marked in notes, so the capability can hold them back. If your presentation software exports slides with different labels, set yours once. It runs in ChatGPT, Claude, Copilot or Gemini; decide which material the assistant may be given.
+Set each presenter's pace, ideally from one timed read-aloud. Decide how much of a slot stays unscripted and how many slides a slot may carry. Pick a default shape for your talks, or keep ours: where we stand, what it means, what we ask. Agree how unreleased figures are marked in notes, so the workflow template can hold them back. If your presentation software exports slides with different labels, set yours once. It runs in ChatGPT, Claude, Copilot or Gemini; decide which material the assistant may be given.
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it, and lists the one edit made afterward, which has not been run again. The run produced both passes in full; none of the stop conditions was reached, and the fourteen acceptance tests in the template were not run. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it, and lists the one edit made afterward, which has not been run again. The run produced both passes in full; none of the stop conditions was reached, and the fourteen acceptance tests in the template were not run. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past talks whose slides and notes you still have, plus hard cases written in advance: a slide that contradicts its notes, a figure nobody has supplied, a note marked not for circulation, a script that will not fit the slot. The presenter checks every fact in the script against its source and reads the script aloud against a clock before relying on it. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three past talks whose slides and notes you still have, plus hard cases written in advance: a slide that contradicts its notes, a figure nobody has supplied, a note marked not for circulation, a script that will not fit the slot. The presenter checks every fact in the script against its source and reads the script aloud against a clock before relying on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -65,11 +65,11 @@ Testing in your environment means running it on two or three past talks whose sl
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -79,12 +79,12 @@ Testing in your environment means running it on two or three past talks whose sl
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
 - [Meeting agenda, notes and follow-ups](../meeting-agenda-notes-and-follow-ups/)
-- [Quarterly business review preparation](https://fullypowered.ai/capabilities/quarterly-business-review-preparation/)
-- [Recorded sessions into articles](https://fullypowered.ai/capabilities/recorded-sessions-into-articles/)
+- [Quarterly business review preparation](https://fullypowered.ai/workflow templates/quarterly-business-review-preparation/)
+- [Recorded sessions into articles](https://fullypowered.ai/workflow templates/recorded-sessions-into-articles/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

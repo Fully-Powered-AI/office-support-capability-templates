@@ -2,7 +2,7 @@
 
 Before the week starts, the executive assistant hands the executive one brief: every clash, every journey or run of meetings with too little time, every meeting with no stated purpose or no preparation time, and proposed time for the week's priorities. Nothing is accepted, declined, moved or sent.
 
-*Capability template · Executive and office support · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/executive-week-ahead-calendar-review/)*
+*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/executive-week-ahead-calendar-review/)*
 
 ## The outcome
 
@@ -10,7 +10,7 @@ The executive walks into Monday knowing what the week asks of them, and the prob
 
 The priorities the executive named get real time, not hope. The brief finds the free hours that are actually usable, allows for the break and the journey on either side, and proposes blocks for each priority. Where the week cannot hold what was asked for, it says by how much, so the executive decides what gives instead of finding out on Friday.
 
-The executive and the assistant choose every change. The capability never accepts, declines, moves or sends an invitation, and never puts anything in the calendar.
+The executive and the assistant choose every change. The workflow template never accepts, declines, moves or sends an invitation, and never puts anything in the calendar.
 
 ## Who starts the work, and when
 
@@ -53,13 +53,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has to change for your company
 
-Set the working hours, the base and the protected times your executive actually keeps. Decide the shortest break worth keeping, the longest run of meetings before it is flagged, and how long a reserved block should be. Write down the travel times between the places your executive goes most; the capability never guesses a journey. Agree how preparation time is labelled in the calendar, which events are always shown as private, and whether the executive wants a view on conflicts or only the facts. It is written to run in ChatGPT, Claude, Copilot or Gemini from an export the assistant makes; decide which calendar fields that export may include.
+Set the working hours, the base and the protected times your executive actually keeps. Decide the shortest break worth keeping, the longest run of meetings before it is flagged, and how long a reserved block should be. Write down the travel times between the places your executive goes most; the workflow template never guesses a journey. Agree how preparation time is labelled in the calendar, which events are always shown as private, and whether the executive wants a view on conflicts or only the facts. It is written to run in ChatGPT, Claude, Copilot or Gemini from an export the assistant makes; decide which calendar fields that export may include.
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template from its own published map of executive and office support work. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, by a model that did not write it, and the record is published. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template from its own published map of executive and office support work. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, by a model that did not write it, and the record is published. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your office means running it on two or three past weeks the assistant remembers well and comparing the brief with what happened, plus hard cases written in advance: a header named differently in the export, a journey with no time supplied, a private event that overlaps a meeting, a priority the week cannot hold, an all-day absence with a meeting booked on it. The assistant checks every figure against the export before the executive relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your office means running it on two or three past weeks the assistant remembers well and comparing the brief with what happened, plus hard cases written in advance: a header named differently in the export, a journey with no time supplied, a private event that overlaps a meeting, a priority the week cannot hold, an all-day absence with a meeting booked on it. The assistant checks every figure against the export before the executive relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -70,11 +70,11 @@ Testing in your office means running it on two or three past weeks the assistant
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -84,7 +84,7 @@ Testing in your office means running it on two or three past weeks the assistant
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
 - [Meeting agenda, notes and follow-ups](../meeting-agenda-notes-and-follow-ups/)
 - [Business trip plan](../business-trip-plan/)
@@ -92,4 +92,4 @@ Testing in your office means running it on two or three past weeks the assistant
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

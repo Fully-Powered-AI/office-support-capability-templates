@@ -2,7 +2,7 @@
 
 *Illustrative example with invented data.* An invented 120-person engineering consultancy is sending Dana, its operations director, to Chicago for three days. Sam, her executive assistant, books her travel. Client X, Supplier B, Airlines A to C and Hotels A to D are invented placeholders, and so are Dana, Sam, Lee and every flight, room, price and journey time below. The city and airport names are real places, used only so the timetable reads naturally.
 
-Sam runs the capability on Tuesday 10 November 2026 with the four things below, and uses the default settings.
+Sam runs the workflow template on Tuesday 10 November 2026 with the four things below, and uses the default settings.
 
 ## What Sam supplied
 

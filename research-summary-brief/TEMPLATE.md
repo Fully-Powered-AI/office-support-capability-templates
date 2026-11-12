@@ -1,6 +1,6 @@
 # Research summary brief
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -13,7 +13,7 @@ Use it when a decision or a briefing is coming and the reading has piled up: ind
 Do not use it:
 
 - to find sources. It reads what it is given; finding the documents is a person's task;
-- to profile one named competitor from its public pages, or to draw themes from your own customers' words. Separate capabilities do those;
+- to profile one named competitor from its public pages, or to draw themes from your own customers' words. Separate workflow templates do those;
 - to say what a law, regulation or contract requires of the organization. That is legal advice, and goes to the organization's lawyer;
 - to summarise medical studies for a decision about a person's care. That is clinical work;
 - to decide anything. The brief says what the documents say; the reader decides what it means.

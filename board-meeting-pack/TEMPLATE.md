@@ -1,6 +1,6 @@
 # Board meeting pack
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -14,10 +14,10 @@ Do not use it for:
 
 - the formal minutes or the wording of a resolution. The company secretary, or whoever the company names, writes those in the company's own form; the draft record here is an input to them;
 - a monthly or quarterly update letter to investors that asks for no decision;
-- a review with a customer, which is the quarterly business review preparation capability;
+- a review with a customer, which is the quarterly business review preparation workflow template;
 - setting anyone's pay, reviewing the CEO's performance or planning a CEO change;
 - valuation, the terms of a funding round, or questions about directors' legal duties, which go to the company's lawyer;
-- building the financial statements themselves. The finance team prepares the reports; this capability reads them.
+- building the financial statements themselves. The finance team prepares the reports; this workflow template reads them.
 
 ## Roles
 

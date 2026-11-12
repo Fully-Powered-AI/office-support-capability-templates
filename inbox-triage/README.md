@@ -2,7 +2,7 @@
 
 The owner, or the assistant who keeps their inbox, starts the day knowing what needs a reply today, what can wait and until when, and what belongs to someone else, with a draft or a forwarding note for each. Nothing is sent, archived, deleted or moved, and no mailbox login is needed.
 
-*Capability template · Executive and office support · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/inbox-triage/)*
+*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/inbox-triage/)*
 
 ## The outcome
 
@@ -18,7 +18,7 @@ An executive assistant, an office manager or the owner runs it first thing in th
 
 ## What they supply
 
-- **The messages:** an export from the mail program as a spreadsheet, or messages pasted in. The export needs six columns: date, sender, recipients, copies, subject and text. If the names differ, the capability stops and asks which is which.
+- **The messages:** an export from the mail program as a spreadsheet, or messages pasted in. The export needs six columns: date, sender, recipients, copies, subject and text. If the names differ, the workflow template stops and asks which is which.
 - **Who is who:** whose inbox it is, the business's email domain and the colleagues' names.
 - **A routing list:** which kinds of message go to which colleague, such as supplier invoices to the bookkeeper.
 - **Recent promises** the owner made that may not show in the messages.
@@ -58,9 +58,9 @@ Write your routing list: which messages go to whom, and who covers when they are
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 9 November 2026, in one run by a model that had not written it, and the record of that run is published with it. Afterwards the example's drafts were corrected where they went beyond the messages, and the template was clarified on the points the run had to settle for itself, such as which of two urgent replies comes first. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 9 November 2026, in one run by a model that had not written it, and the record of that run is published with it. Afterwards the example's drafts were corrected where they went beyond the messages, and the template was clarified on the points the run had to settle for itself, such as which of two urgent replies comes first. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past mornings whose mail the owner remembers, plus hard cases written in advance: a supplier's bank details changing from a lookalike address, a customer writing for the second time, an approval due today, a promise with no message about it, an export whose columns are named differently. The owner checks every group and every draft before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three past mornings whose mail the owner remembers, plus hard cases written in advance: a supplier's bank details changing from a lookalike address, a customer writing for the second time, an approval due today, a promise with no message about it, an export whose columns are named differently. The owner checks every group and every draft before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -71,11 +71,11 @@ Testing in your environment means running it on two or three past mornings whose
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -85,12 +85,12 @@ Testing in your environment means running it on two or three past mornings whose
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
 - [Meeting agenda, notes and follow-ups](../meeting-agenda-notes-and-follow-ups/)
-- [Customer reply drafting](https://fullypowered.ai/capabilities/customer-reply-drafting/)
-- [Supplier bill review and payment-run preparation](https://fullypowered.ai/capabilities/supplier-bill-review-and-payment-run-preparation/)
+- [Customer reply drafting](https://fullypowered.ai/workflow templates/customer-reply-drafting/)
+- [Supplier bill review and payment-run preparation](https://fullypowered.ai/workflow templates/supplier-bill-review-and-payment-run-preparation/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

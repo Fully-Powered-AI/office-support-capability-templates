@@ -1,16 +1,16 @@
 ---
 name: "delegation-brief-and-follow-up"
-description: "Help a manager hand work to one person clearly and keep track of it until it is accepted. The capability does two things for the same piece of work. When the manager hands over a task, it turns the manager's note into a brief: the deliverable, its format, the due date and time, why it matters, who will use it, what the person may decide on their own, and the dates the manager will check in. Once a week, it reads the list of open delegations and returns where each one stands, what is overdue, the questions only the manager can answer and the next follow-up note for each, drafted and unsent. The manager decides what to delegate and to whom. The assistant sends nothing, changes no list and never comments on how well anyone works."
+description: "Help a manager hand work to one person clearly and keep track of it until it is accepted. The workflow template does two things for the same piece of work. When the manager hands over a task, it turns the manager's note into a brief: the deliverable, its format, the due date and time, why it matters, who will use it, what the person may decide on their own, and the dates the manager will check in. Once a week, it reads the list of open delegations and returns where each one stands, what is overdue, the questions only the manager can answer and the next follow-up note for each, drafted and unsent. The manager decides what to delegate and to whom. The assistant sends nothing, changes no list and never comments on how well anyone works."
 license: "MIT"
 metadata:
   version: "0.1.0"
   publisher: "Fully Powered AI"
-  capability: "Delegation brief and follow-up"
+  template: "Delegation brief and follow-up"
 ---
 
 # Delegation brief and follow-up
 
-This is the technical file for a Fully Powered capability template. It carries the instructions an AI product follows. The complete template, with roles, inputs, exceptions, the reviewer checklist, acceptance tests and what to customize, is in [TEMPLATE.md](TEMPLATE.md). A worked example with invented data is in [EXAMPLE.md](EXAMPLE.md).
+This is the technical file for a Fully Powered workflow template. It carries the instructions an AI product follows. The complete template, with roles, inputs, exceptions, the reviewer checklist, acceptance tests and what to customize, is in [TEMPLATE.md](TEMPLATE.md). A worked example with invented data is in [EXAMPLE.md](EXAMPLE.md).
 
 ## Instructions
 

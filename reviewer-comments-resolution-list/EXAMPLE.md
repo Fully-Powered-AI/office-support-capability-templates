@@ -1,6 +1,6 @@
 # Reviewer comments into one resolution list: an invented example
 
-*Illustrative example with invented data.* The organisation, the funder, the people, the report and every figure below are invented. Charity A is an invented community food charity. Ines, its communications lead, owns the quarterly report to its funder, Funder B. Three people reviewed version 3: Kofi, the programme director, and Margit, the finance manager, each returned a marked-up copy, which Ines exported to a comments-and-changes file; Theo, the board chair, sent an email. First come the inputs Ines supplied, in full, then the list the capability returned.
+*Illustrative example with invented data.* The organisation, the funder, the people, the report and every figure below are invented. Charity A is an invented community food charity. Ines, its communications lead, owns the quarterly report to its funder, Funder B. Three people reviewed version 3: Kofi, the programme director, and Margit, the finance manager, each returned a marked-up copy, which Ines exported to a comments-and-changes file; Theo, the board chair, sent an email. First come the inputs Ines supplied, in full, then the list the workflow template returned.
 
 ## The inputs
 

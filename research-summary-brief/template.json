@@ -1,10 +1,10 @@
 {
   "id": "research-summary-brief",
   "name": "Research summary brief",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "An executive handed a pile of reports, articles or papers gets one brief: what each source found, where the sources agree and disagree, the limits of each, and exact quotations cited to the page. Built only from the documents supplied. What it means for the business stays the reader's call.",
-  "directory": "https://fullypowered.ai/capabilities/research-summary-brief/",
+  "directory": "https://fullypowered.ai/workflow templates/research-summary-brief/",
   "primary_function": "functions/executive-and-office-support",
   "functions": [
     "functions/executive-and-office-support",

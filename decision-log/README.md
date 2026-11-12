@@ -2,13 +2,13 @@
 
 Your chief of staff keeps one register of what the leadership actually approved, across every meeting and message: each decision with who approved it, each action with one owner and a date, what is overdue, and a flag wherever a new decision clashes with an earlier one or revives a rejected idea.
 
-*Capability template · Executive and office support · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/decision-log/)*
+*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/decision-log/)*
 
 ## The outcome
 
 Everyone can see what the leadership settled, and only that. One register holds every approved decision with its date, its approver, the reason given and the options turned down, and every action that follows from it, each with one owner and one date. A conversation that sounded like agreement never becomes a decision by accident: anything that was only discussed stays out, listed apart, until an approver says yes.
 
-The register checks itself as it grows. When a new decision cuts across one already in force, brings back an idea the leadership turned down, or hands the same work to a second person, the capability flags it with the earlier entry beside it and the choices open. Overdue actions and reviews coming due are on the same page every week. The person who keeps the register approves every entry and makes every change; the AI assistant enters nothing and sends nothing.
+The register checks itself as it grows. When a new decision cuts across one already in force, brings back an idea the leadership turned down, or hands the same work to a second person, the workflow template flags it with the earlier entry beside it and the choices open. Overdue actions and reviews coming due are on the same page every week. The person who keeps the register approves every entry and makes every change; the AI assistant enters nothing and sends nothing.
 
 ## Who starts the work, and when
 
@@ -54,9 +54,9 @@ Name who keeps the register and who may approve which kinds of decision, with an
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with it. The run produced every part of the update, and the path that keeps an item about one person's pay out of the register was reached; none of the stop conditions was, and the eleven acceptance tests in the template were not run. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with it. The run produced every part of the update, and the path that keeps an item about one person's pay out of the register was reached; none of the stop conditions was, and the eleven acceptance tests in the template were not run. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three months of past leadership material whose decisions you already know, plus hard cases written in advance: an agreement with no approver named, a new decision that reverses an earlier one, an idea the leadership turned down coming back in different words, the same work given to two people, a register export with different column names. The register keeper checks every entry against its source before anything is entered. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three months of past leadership material whose decisions you already know, plus hard cases written in advance: an agreement with no approver named, a new decision that reverses an earlier one, an idea the leadership turned down coming back in different words, the same work given to two people, a register export with different column names. The register keeper checks every entry against its source before anything is entered. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -67,11 +67,11 @@ Testing in your environment means running it on two or three months of past lead
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -81,12 +81,12 @@ Testing in your environment means running it on two or three months of past lead
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
 - [Meeting agenda, notes and follow-ups](../meeting-agenda-notes-and-follow-ups/)
-- [Internal change announcement](https://fullypowered.ai/capabilities/internal-change-announcement/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/)
+- [Internal change announcement](https://fullypowered.ai/workflow templates/internal-change-announcement/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflow templates/pilot-acceptance-test-preparation/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

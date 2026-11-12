@@ -1,6 +1,6 @@
 # Research summary brief: an invented example
 
-*Illustrative example with invented data.* The company, the people, the three documents, their publishers and every figure in them are invented, and none describes a real study or a real vehicle. The company, called the Distributor here, is an invented regional food distributor with 35 delivery vans, 9 of them refrigerated. Its chief executive will discuss replacing part of the fleet on Thursday 19 November 2026 and has been sent three documents about electric vans. The operations analyst runs the capability on Tuesday 10 November 2026.
+*Illustrative example with invented data.* The company, the people, the three documents, their publishers and every figure in them are invented, and none describes a real study or a real vehicle. The company, called the Distributor here, is an invented regional food distributor with 35 delivery vans, 9 of them refrigerated. Its chief executive will discuss replacing part of the fleet on Thursday 19 November 2026 and has been sent three documents about electric vans. The operations analyst runs the workflow template on Tuesday 10 November 2026.
 
 First come the request and the three documents, in full, exactly as the analyst pasted them. Then the brief that came back.
 

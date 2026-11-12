@@ -1,10 +1,10 @@
 # Delegation brief and follow-up
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
-Help a manager hand work to one person clearly and keep track of it until it is accepted. The capability does two things for the same piece of work. When the manager hands over a task, it turns the manager's note into a brief: the deliverable, its format, the due date and time, why it matters, who will use it, what the person may decide on their own, and the dates the manager will check in. Once a week, it reads the list of open delegations and returns where each one stands, what is overdue, the questions only the manager can answer and the next follow-up note for each, drafted and unsent. The manager decides what to delegate and to whom. The assistant sends nothing, changes no list and never comments on how well anyone works.
+Help a manager hand work to one person clearly and keep track of it until it is accepted. The workflow template does two things for the same piece of work. When the manager hands over a task, it turns the manager's note into a brief: the deliverable, its format, the due date and time, why it matters, who will use it, what the person may decide on their own, and the dates the manager will check in. Once a week, it reads the list of open delegations and returns where each one stands, what is overdue, the questions only the manager can answer and the next follow-up note for each, drafted and unsent. The manager decides what to delegate and to whom. The assistant sends nothing, changes no list and never comments on how well anyone works.
 
 ## When to use it and when not to
 
@@ -21,8 +21,8 @@ Do not use it for:
 
 ## Roles
 
-- **The manager:** decides what to delegate, to whom, by when and with what authority. Approves each brief before it is handed over, answers every question the capability raises, accepts or returns delivered work, and sends or approves every note.
-- **The list keeper:** the executive assistant, chief of staff or office manager who keeps the delegation list. Runs the capability, takes the questions to the manager, sends the approved notes and makes every change to the list.
+- **The manager:** decides what to delegate, to whom, by when and with what authority. Approves each brief before it is handed over, answers every question the workflow template raises, accepts or returns delivered work, and sends or approves every note.
+- **The list keeper:** the executive assistant, chief of staff or office manager who keeps the delegation list. Runs the workflow template, takes the questions to the manager, sends the approved notes and makes every change to the list.
 - **The person receiving the work:** one named person per task. They acknowledge the brief, report progress and deliver.
 - **The AI assistant:** writes the brief and the weekly list from what it is given, works out the dates and drafts the notes. It contacts nobody, changes nothing and makes no judgement about anyone.
 
@@ -348,4 +348,4 @@ a hiring decision. Never repeat a password, login code or bank details.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI as its own version of a method for handing work to one person and following it up; sources are listed in the capability's credits. Editorially reviewed. Tried once on its invented example in Claude on 10 November 2026; the run matched the example in substance, and the record of that run is published with the example and lists the open points it found. After an independent review, the procedure, the pasted instructions and the acceptance-test note were clarified on those points, and the example's due time was written as 12:00; these edits have not been run again, and the record lists them. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by Fully Powered AI as its own version of a method for handing work to one person and following it up; sources are listed in the workflow template's credits. Editorially reviewed. Tried once on its invented example in Claude on 10 November 2026; the run matched the example in substance, and the record of that run is published with the example and lists the open points it found. After an independent review, the procedure, the pasted instructions and the acceptance-test note were clarified on those points, and the example's due time was written as 12:00; these edits have not been run again, and the record lists them. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

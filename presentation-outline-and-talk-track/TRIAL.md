@@ -5,7 +5,7 @@
 - **Date:** 2026-11-10
 - **Template version:** 0.1.0
 
-This is a record of one run of the capability template on its own invented example. Pelterwick Facilities, Maren, her board, her sites and every figure are invented, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
+This is a record of one run of the workflow template on its own invented example. Pelterwick Facilities, Maren, her board, her sites and every figure are invented, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
 
 This is the second recorded run on the same example. An earlier run the same day, by a different model, showed where the instructions left room to guess and where the trial's own set-up had produced a false result; the template and the example were revised, and the run recorded here was made on the revised versions. What the earlier run found, and what was changed, is at the end.
 

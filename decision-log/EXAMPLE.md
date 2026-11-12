@@ -1,6 +1,6 @@
 # Decision log: an invented example
 
-*Illustrative example with invented data.* Quellmoor Cabinets is an invented 85-person maker of kitchen cabinets that sells through dealers. The people, dealers, figures and decisions below are invented too. Noor, the chief of staff, keeps the leadership's register of approved decisions. On Tuesday 10 November 2026, the day after the Monday leadership meeting, she runs the capability with the register so far, two pieces of new material and two status updates. First come her inputs, in full, then what came back.
+*Illustrative example with invented data.* Quellmoor Cabinets is an invented 85-person maker of kitchen cabinets that sells through dealers. The people, dealers, figures and decisions below are invented too. Noor, the chief of staff, keeps the leadership's register of approved decisions. On Tuesday 10 November 2026, the day after the Monday leadership meeting, she runs the workflow template with the register so far, two pieces of new material and two status updates. First come her inputs, in full, then what came back.
 
 ## The inputs
 

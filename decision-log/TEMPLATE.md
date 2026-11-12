@@ -1,6 +1,6 @@
 # Decision log
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -12,14 +12,14 @@ Use it when a leadership team, an owner group or a management committee approves
 
 Do not use it for:
 
-- the record of a single meeting, which belongs to Meeting agenda, notes and follow-ups, whose approved record can be this capability's input;
+- the record of a single meeting, which belongs to Meeting agenda, notes and follow-ups, whose approved record can be this workflow template's input;
 - board, shareholder or other minutes that must follow a set form and be formally adopted;
 - decisions about one person's pay, performance, health or conduct, which stay where your company keeps those records;
 - deciding anything: the register records what the approvers decided and adds no view of its own.
 
 ## Roles
 
-- **Keeps the register:** a chief of staff, an executive assistant, an office manager or a company secretary. They run the capability, settle every gap with the approver concerned, approve each entry and make every change to the register themselves.
+- **Keeps the register:** a chief of staff, an executive assistant, an office manager or a company secretary. They run the workflow template, settle every gap with the approver concerned, approve each entry and make every change to the register themselves.
 - **Approvers:** the people whose approval makes a decision, named in the settings with any limit on what each may approve. They settle flags about their own decisions.
 - **Action owners:** the people named on each action. They report progress to the register keeper.
 - **The AI assistant:** proposes entries, checks them against the register and lists gaps. It contacts nobody and changes nothing.
@@ -282,4 +282,4 @@ decline and return the text or the question.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI as its own version of a method for logging decisions; sources are listed in the capability's credits. Editorially reviewed. Tried once on its invented example in Claude on 10 November 2026, after the instructions were revised to settle the points an earlier run left open (the company name in the settings, the order of the gaps, where an action with no decision goes, dates with no year, a new reason for a rejected option, an earlier review date, how far a duplicate action reaches), and again after the independent review's minor points were applied (the "Held back" line gives the kind of item only, "See F(n)" goes only on an action that carries the flag, and the block repeats that a duplicate action is one under a different owner or date and that no owner or date is ever supplied); the trial record is of the run on this version. The stop conditions and the acceptance tests were not run. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by Fully Powered AI as its own version of a method for logging decisions; sources are listed in the workflow template's credits. Editorially reviewed. Tried once on its invented example in Claude on 10 November 2026, after the instructions were revised to settle the points an earlier run left open (the company name in the settings, the order of the gaps, where an action with no decision goes, dates with no year, a new reason for a rejected option, an earlier review date, how far a duplicate action reaches), and again after the independent review's minor points were applied (the "Held back" line gives the kind of item only, "See F(n)" goes only on an action that carries the flag, and the block repeats that a duplicate action is one under a different owner or date and that no owner or date is ever supplied); the trial record is of the run on this version. The stop conditions and the acceptance tests were not run. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

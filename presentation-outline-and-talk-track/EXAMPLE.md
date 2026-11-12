@@ -1,6 +1,6 @@
 # Presentation outline and talk track: an invented example
 
-*Illustrative example with invented data.* Pelterwick Facilities is an invented office cleaning and maintenance firm with one depot. Its people, sites, figures and prospects are invented too. Maren, the managing director, has a three-minute slot at the quarterly board meeting. She uses the capability twice: on Monday 9 November 2026 with her notes, and on Monday 16 November with the slides she has built.
+*Illustrative example with invented data.* Pelterwick Facilities is an invented office cleaning and maintenance firm with one depot. Its people, sites, figures and prospects are invented too. Maren, the managing director, has a three-minute slot at the quarterly board meeting. She uses the workflow template twice: on Monday 9 November 2026 with her notes, and on Monday 16 November with the slides she has built.
 
 Settings used: the default pace values (steady 120, ordinary 140, quick 160 words a minute), 10 per cent of the slot left unscripted, a slide limit of one slide for every 30 seconds of the slot, and the default shape.
 

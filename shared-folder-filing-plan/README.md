@@ -2,11 +2,11 @@
 
 The office coordinator gets a plan for tidying a shared folder: a proposed folder structure, every file's move with its owner named, and the duplicates and access questions to settle first. Owners approve their own moves; nothing is moved, renamed or deleted.
 
-*Capability template · Executive and office support · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/shared-folder-filing-plan/)*
+*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/shared-folder-filing-plan/)*
 
 ## The outcome
 
-Tidying a shared folder usually stalls on the same few worries: whose file is this, will moving it lock somebody out, is there already a copy somewhere. This capability puts those worries on one page before anybody touches a file. You get the folder structure your own filing conventions imply, a list of moves with each document's owner named beside it, and a short list of questions, each addressed to one person.
+Tidying a shared folder usually stalls on the same few worries: whose file is this, will moving it lock somebody out, is there already a copy somewhere. This workflow template puts those worries on one page before anybody touches a file. You get the folder structure your own filing conventions imply, a list of moves with each document's owner named beside it, and a short list of questions, each addressed to one person.
 
 Moves that are clear are marked ready for the owner to approve. Moves that are not are held, with the reason and the question that releases them: no owner recorded, a link that anyone could be using, a file whose current sharing does not match its new folder, a record your conventions say must not move without a named person's confirmation. Files that look like copies of each other are never decided for you. Both go to their owners.
 
@@ -41,13 +41,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has to change for your company
 
-Write down your own folder structure and filing rules before the first run; the capability adds none of its own. Decide who may see each destination folder and write the groups exactly as they appear in your drive's sharing list, because they are compared word for word. Name the restricted records and who confirms their moves. Choose the age after which untouched files go to an archive folder, and the order of the rules, since the first match wins. It is written to run in ChatGPT, Claude, Copilot or Gemini, from an export you supply; it needs no connection to your drive.
+Write down your own folder structure and filing rules before the first run; the workflow template adds none of its own. Decide who may see each destination folder and write the groups exactly as they appear in your drive's sharing list, because they are compared word for word. Name the restricted records and who confirms their moves. Choose the age after which untouched files go to an archive folder, and the order of the rules, since the first match wins. It is written to run in ChatGPT, Claude, Copilot or Gemini, from an export you supply; it needs no connection to your drive.
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example, in Claude on 10 November 2026; that run was not fully blind, because the example's published output was in view, and the published trial record says so. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example, in Claude on 10 November 2026; that run was not fully blind, because the example's published output was in view, and the published trial record says so. It has not yet been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on one real folder you already understand, plus hard cases written in advance: a file with no owner, two files with the same name and size, a file shared by link, a file shared with a group that its new folder does not include, a record in a restricted category. The coordinator checks every proposed destination and every owner against the rules before anyone relies on the plan. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on one real folder you already understand, plus hard cases written in advance: a file with no owner, two files with the same name and size, a file shared by link, a file shared with a group that its new folder does not include, a record in a restricted category. The coordinator checks every proposed destination and every owner against the rules before anyone relies on the plan. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -58,11 +58,11 @@ Testing in your environment means running it on one real folder you already unde
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -72,12 +72,12 @@ Testing in your environment means running it on one real folder you already unde
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
 - [Staff newsletter and FAQ roundup](../staff-newsletter-and-faq-roundup/)
-- [Departing-employee knowledge capture](https://fullypowered.ai/capabilities/departing-employee-knowledge-capture/)
+- [Departing-employee knowledge capture](https://fullypowered.ai/workflow templates/departing-employee-knowledge-capture/)
 - [Decision log](../decision-log/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

@@ -4,7 +4,7 @@
 - **Model:** Claude Sonnet 5.5 (model ID `claude-sonnet-5-5`)
 - **Date:** 2026-11-09
 
-The inputs for this run are the invented example's own: the settings, routing list, promises, two sample replies and the export of 17 messages in `public/example.md`, section "The inputs". No client data was used. The run followed the fenced instruction block and the output format in the capability template, and the example's published output was read only afterwards. The run was done by a model that had not written the template.
+The inputs for this run are the invented example's own: the settings, routing list, promises, two sample replies and the export of 17 messages in `public/example.md`, section "The inputs". No client data was used. The run followed the fenced instruction block and the output format in the workflow template, and the example's published output was read only afterwards. The run was done by a model that had not written the template.
 
 ## What came out
 

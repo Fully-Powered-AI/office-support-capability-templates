@@ -1,6 +1,6 @@
 # Executive week-ahead calendar review
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -13,9 +13,9 @@ Use it once a week, on the last working day or two before the week it reviews, w
 Do not use it:
 
 - to find a time for one new meeting, or to prepare a move and the notice that goes with it. Those are separate pieces of work;
-- to write a meeting's agenda, notes or follow-ups. Use the meeting agenda, notes and follow-ups capability;
-- to plan or price a trip. A journey that needs a flight, a train or a hotel goes to the business trip plan capability; this review only checks the time between places;
-- to sort the inbox. Use the inbox triage capability;
+- to write a meeting's agenda, notes or follow-ups. Use the meeting agenda, notes and follow-ups workflow template;
+- to plan or price a trip. A journey that needs a flight, a train or a hotel goes to the business trip plan workflow template; this review only checks the time between places;
+- to sort the inbox. Use the inbox triage workflow template;
 - to judge how anyone spends their time, or to score an executive's or a team's workload. The brief describes one week's calendar and nothing else.
 
 ## Roles
@@ -80,7 +80,7 @@ Everything is pasted or attached by the person who runs it. No calendar or mailb
 - **Asked to judge the executive's or anyone's workload or performance:** decline; the brief describes the calendar for one week only.
 - **An event's title or purpose concerns one person's health, pay, performance or a personal matter:** show it as "Private event" with its times only.
 - **The export, notes or priorities contain a password, a login code or a meeting passcode:** do not repeat it; say in the header which input it is in, so the person removes it from the source.
-- **A journey needs travel booked, or a meeting needs an agenda written:** say so in that item's decision and point to the business trip plan or the meeting agenda, notes and follow-ups capability. Do not do that work here.
+- **A journey needs travel booked, or a meeting needs an agenda written:** say so in that item's decision and point to the business trip plan or the meeting agenda, notes and follow-ups workflow template. Do not do that work here.
 
 ## Output format
 

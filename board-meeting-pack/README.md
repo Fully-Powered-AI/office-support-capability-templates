@@ -2,7 +2,7 @@
 
 Before each board meeting, the CEO gets a pre-read built on the one decision the board is asked to make, with every figure from the company's own reports, an agenda kept mostly for discussion and the questions directors are likely to ask. Afterwards, a record of what was decided. The CEO sends it all.
 
-*Capability template · Executive and office support · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/board-meeting-pack/)*
+*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/board-meeting-pack/)*
 
 ## The outcome
 
@@ -10,7 +10,7 @@ Your board meeting is spent on a decision, not on reading slides aloud. Director
 
 The CEO walks in knowing the questions directors are likely to ask, with a draft answer to each, and having already called each director about every figure well behind plan and every promise from last time that slipped. The agenda gives most of the meeting to discussion.
 
-When the meeting ends, the CEO has a draft record of what was decided, every condition the board added, and an owner and date for each action, ready for the chair to confirm and for whoever keeps the formal minutes. Where two reports disagree, a figure has no cause or an action has no owner, the capability says so and asks. It never chooses the decision, never supplies a cause and never sends anything.
+When the meeting ends, the CEO has a draft record of what was decided, every condition the board added, and an owner and date for each action, ready for the chair to confirm and for whoever keeps the formal minutes. Where two reports disagree, a figure has no cause or an action has no owner, the workflow template says so and asks. It never chooses the decision, never supplies a cause and never sends anything.
 
 ## Who starts the work, and when
 
@@ -54,13 +54,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has to change for your company
 
-Decide who assembles the pack, who owns the figures and who keeps the formal minutes. Set how many days before the meeting the pack goes out, the variance from plan that needs a cause, and how much of the meeting may be presentation. Fix the order of the standing figures once and keep it every meeting. Map your figures export to the column headings the capability expects, or keep its defaults. Add the warning signs your own board watches for. Agree how directors receive the pack and where the confirmed record is kept so the next pack can pick up its actions. It runs in ChatGPT, Claude, Copilot or Gemini; decide which reports the assistant may be given.
+Decide who assembles the pack, who owns the figures and who keeps the formal minutes. Set how many days before the meeting the pack goes out, the variance from plan that needs a cause, and how much of the meeting may be presentation. Fix the order of the standing figures once and keep it every meeting. Map your figures export to the column headings the workflow template expects, or keep its defaults. Add the warning signs your own board watches for. Agree how directors receive the pack and where the confirmed record is kept so the next pack can pick up its actions. It runs in ChatGPT, Claude, Copilot or Gemini; decide which reports the assistant may be given.
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with it. That run produced the full pack and decision record; it did not reach an export whose column headings do not match, a brief with no decision or two decisions, a request to drop a figure or to send the pack, an agenda over the presentation limit, or notes that describe the executive session. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with it. That run produced the full pack and decision record; it did not reach an export whose column headings do not match, a brief with no decision or two decisions, a request to drop a figure or to send the pack, an agenda over the presentation limit, or notes that describe the executive session. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on the papers and notes of two or three past board meetings whose outcomes you already know, plus hard cases written in advance: two reports that disagree, a large variance with no cause, a message the figures contradict, an agenda that is mostly presentation, and notes with an action nobody took. The finance lead checks every figure against its report and the chair checks the decision record against what the board decided. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on the papers and notes of two or three past board meetings whose outcomes you already know, plus hard cases written in advance: two reports that disagree, a large variance with no cause, a message the figures contradict, an agenda that is mostly presentation, and notes with an action nobody took. The finance lead checks every figure against its report and the chair checks the decision record against what the board decided. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -71,11 +71,11 @@ Testing in your environment means running it on the papers and notes of two or t
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -85,12 +85,12 @@ Testing in your environment means running it on the papers and notes of two or t
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
 - [Meeting agenda, notes and follow-ups](../meeting-agenda-notes-and-follow-ups/)
-- [Budget-versus-actual variance commentary](https://fullypowered.ai/capabilities/budget-versus-actual-variance-commentary/)
-- [Thirteen-week cash flow forecast](https://fullypowered.ai/capabilities/thirteen-week-cash-flow-forecast/)
+- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflow templates/budget-versus-actual-variance-commentary/)
+- [Thirteen-week cash flow forecast](https://fullypowered.ai/workflow templates/thirteen-week-cash-flow-forecast/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

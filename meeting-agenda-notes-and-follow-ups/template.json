@@ -1,10 +1,10 @@
 {
   "id": "meeting-agenda-notes-and-follow-ups",
   "name": "Meeting agenda, notes and follow-ups",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Whoever runs the meeting walks in with an agenda where every topic has an outcome and a time, and walks out with a one-page record: what was decided, who owns each action and by when, and what is still open. Nothing reaches anyone until that person has read it and sends it.",
-  "directory": "https://fullypowered.ai/capabilities/meeting-agenda-notes-and-follow-ups/",
+  "directory": "https://fullypowered.ai/workflow templates/meeting-agenda-notes-and-follow-ups/",
   "primary_function": "functions/executive-and-office-support",
   "functions": [
     "functions/executive-and-office-support",
