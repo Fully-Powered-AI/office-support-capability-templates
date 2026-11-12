@@ -2,7 +2,7 @@
 
 Whoever runs the meeting walks in with an agenda where every topic has an outcome and a time, and walks out with a one-page record: what was decided, who owns each action and by when, and what is still open. Nothing reaches anyone until that person has read it and sends it.
 
-*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/meeting-agenda-notes-and-follow-ups/)*
+*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/meeting-agenda-notes-and-follow-ups/)*
 
 ## The outcome
 
@@ -80,9 +80,9 @@ Testing in your environment means running it on the notes of three or four past 
 
 ## Related workflow templates
 
-- [Client-status update preparation](https://fullypowered.ai/workflow templates/client-status-update-preparation/)
-- [Weekly receivables summary](https://fullypowered.ai/workflow templates/weekly-receivables-summary/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflow templates/pilot-acceptance-test-preparation/)
+- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/)
+- [Weekly receivables summary](https://fullypowered.ai/workflows/weekly-receivables-summary/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
 
 ## Make it yours
 

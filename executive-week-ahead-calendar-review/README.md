@@ -2,7 +2,7 @@
 
 Before the week starts, the executive assistant hands the executive one brief: every clash, every journey or run of meetings with too little time, every meeting with no stated purpose or no preparation time, and proposed time for the week's priorities. Nothing is accepted, declined, moved or sent.
 
-*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/executive-week-ahead-calendar-review/)*
+*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/executive-week-ahead-calendar-review/)*
 
 ## The outcome
 

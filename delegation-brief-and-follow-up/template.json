@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Every task a manager hands over goes with a clear brief: what to deliver, in what form, by what date and time, why it matters, who will use it, what the person may decide alone and when the manager will check in. Each week, one list shows what is open, what is late and the next note to send.",
-  "directory": "https://fullypowered.ai/workflow templates/delegation-brief-and-follow-up/",
+  "directory": "https://fullypowered.ai/workflows/delegation-brief-and-follow-up/",
   "primary_function": "functions/executive-and-office-support",
   "functions": [
     "functions/executive-and-office-support",

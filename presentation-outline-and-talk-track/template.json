@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Anyone presenting to a board, a client or a conference gets a storyboard built on one message, then a spoken script for every slide, timed to the slot and true to their own speaker notes. Every fact comes from what the presenter supplied, and the presenter approves the message and the words.",
-  "directory": "https://fullypowered.ai/workflow templates/presentation-outline-and-talk-track/",
+  "directory": "https://fullypowered.ai/workflows/presentation-outline-and-talk-track/",
   "primary_function": "functions/executive-and-office-support",
   "functions": [
     "functions/executive-and-office-support",

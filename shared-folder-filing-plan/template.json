@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "The office coordinator gets a plan for tidying a shared folder: a proposed folder structure, every file's move with its owner named, and the duplicates and access questions to settle first. Owners approve their own moves; nothing is moved, renamed or deleted.",
-  "directory": "https://fullypowered.ai/workflow templates/shared-folder-filing-plan/",
+  "directory": "https://fullypowered.ai/workflows/shared-folder-filing-plan/",
   "primary_function": "functions/executive-and-office-support",
   "functions": [
     "functions/executive-and-office-support"

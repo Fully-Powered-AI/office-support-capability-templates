@@ -2,7 +2,7 @@
 
 Anyone presenting to a board, a client or a conference gets a storyboard built on one message, then a spoken script for every slide, timed to the slot and true to their own speaker notes. Every fact comes from what the presenter supplied, and the presenter approves the message and the words.
 
-*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/presentation-outline-and-talk-track/)*
+*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/presentation-outline-and-talk-track/)*
 
 ## The outcome
 
@@ -82,8 +82,8 @@ Testing in your environment means running it on two or three past talks whose sl
 ## Related workflow templates
 
 - [Meeting agenda, notes and follow-ups](../meeting-agenda-notes-and-follow-ups/)
-- [Quarterly business review preparation](https://fullypowered.ai/workflow templates/quarterly-business-review-preparation/)
-- [Recorded sessions into articles](https://fullypowered.ai/workflow templates/recorded-sessions-into-articles/)
+- [Quarterly business review preparation](https://fullypowered.ai/workflows/quarterly-business-review-preparation/)
+- [Recorded sessions into articles](https://fullypowered.ai/workflows/recorded-sessions-into-articles/)
 
 ## Make it yours
 

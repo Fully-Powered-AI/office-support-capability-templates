@@ -2,7 +2,7 @@
 
 Each month the office manager turns what teams send in into one staff newsletter, with answers to the questions people keep asking, each quoted from an approved source and its owner named. Nothing about one person's pay, health or performance goes in, and a person approves the issue before it goes.
 
-*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/staff-newsletter-and-faq-roundup/)*
+*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/staff-newsletter-and-faq-roundup/)*
 
 ## The outcome
 
@@ -81,8 +81,8 @@ Testing in your environment means running it on two or three past months whose i
 
 ## Related workflow templates
 
-- [Internal change announcement](https://fullypowered.ai/workflow templates/internal-change-announcement/)
-- [Policy answers from the handbook](https://fullypowered.ai/workflow templates/policy-answers-from-the-handbook/)
+- [Internal change announcement](https://fullypowered.ai/workflows/internal-change-announcement/)
+- [Policy answers from the handbook](https://fullypowered.ai/workflows/policy-answers-from-the-handbook/)
 - [Meeting agenda, notes and follow-ups](../meeting-agenda-notes-and-follow-ups/)
 
 ## Make it yours

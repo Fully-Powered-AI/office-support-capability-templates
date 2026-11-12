@@ -2,7 +2,7 @@
 
 The office coordinator gets a plan for tidying a shared folder: a proposed folder structure, every file's move with its owner named, and the duplicates and access questions to settle first. Owners approve their own moves; nothing is moved, renamed or deleted.
 
-*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/shared-folder-filing-plan/)*
+*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/shared-folder-filing-plan/)*
 
 ## The outcome
 
@@ -75,7 +75,7 @@ Testing in your environment means running it on one real folder you already unde
 ## Related workflow templates
 
 - [Staff newsletter and FAQ roundup](../staff-newsletter-and-faq-roundup/)
-- [Departing-employee knowledge capture](https://fullypowered.ai/workflow templates/departing-employee-knowledge-capture/)
+- [Departing-employee knowledge capture](https://fullypowered.ai/workflows/departing-employee-knowledge-capture/)
 - [Decision log](../decision-log/)
 
 ## Make it yours

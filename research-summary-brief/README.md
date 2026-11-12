@@ -2,7 +2,7 @@
 
 An executive handed a pile of reports, articles or papers gets one brief: what each source found, where the sources agree and disagree, the limits of each, and exact quotations cited to the page. Built only from the documents supplied. What it means for the business stays the reader's call.
 
-*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/research-summary-brief/)*
+*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/research-summary-brief/)*
 
 ## The outcome
 
@@ -88,8 +88,8 @@ Testing in your environment means running it on a set of documents someone on yo
 
 ## Related workflow templates
 
-- [Competitor profile from public pages](https://fullypowered.ai/workflow templates/competitor-profile-from-public-pages/)
-- [Customer interview synthesis](https://fullypowered.ai/workflow templates/customer-interview-synthesis/)
+- [Competitor profile from public pages](https://fullypowered.ai/workflows/competitor-profile-from-public-pages/)
+- [Customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/)
 - [Meeting agenda, notes and follow-ups](../meeting-agenda-notes-and-follow-ups/)
 
 ## Make it yours

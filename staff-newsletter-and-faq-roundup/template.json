@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Each month the office manager turns what teams send in into one staff newsletter, with answers to the questions people keep asking, each quoted from an approved source and its owner named. Nothing about one person's pay, health or performance goes in, and a person approves the issue before it goes.",
-  "directory": "https://fullypowered.ai/workflow templates/staff-newsletter-and-faq-roundup/",
+  "directory": "https://fullypowered.ai/workflows/staff-newsletter-and-faq-roundup/",
   "primary_function": "functions/executive-and-office-support",
   "functions": [
     "functions/executive-and-office-support",

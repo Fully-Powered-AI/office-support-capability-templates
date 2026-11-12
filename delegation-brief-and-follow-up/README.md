@@ -2,7 +2,7 @@
 
 Every task a manager hands over goes with a clear brief: what to deliver, in what form, by what date and time, why it matters, who will use it, what the person may decide alone and when the manager will check in. Each week, one list shows what is open, what is late and the next note to send.
 
-*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/delegation-brief-and-follow-up/)*
+*Workflow template · Executive and office support · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/delegation-brief-and-follow-up/)*
 
 ## The outcome
 
@@ -85,7 +85,7 @@ Testing in your environment means running it on a few weeks of past handovers yo
 
 - [Decision log](../decision-log/)
 - [Meeting agenda, notes and follow-ups](../meeting-agenda-notes-and-follow-ups/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflow templates/pilot-acceptance-test-preparation/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
 
 ## Make it yours
 
